@@ -95,3 +95,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# AI Warning
+The back end API, story-telling, Apple to Android app translating, and documentation were facilitated with the use of Claude, Anthropic's AI agent. Like many other AIs, Claude can be wrong. If there is an issue, please do not hesitate to open an issue.
